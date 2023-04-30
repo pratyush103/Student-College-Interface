@@ -1,0 +1,72 @@
+Time,User,Role,Activity
+23-04-2023 22:12,test,test,test
+27:11.2,ab,Teacher,logged in
+29:59.2,ab,Teacher,Changed marks ofq
+32:33.1,70412200020,Student,logged in
+35:44.3,70412200020,Student,logged in
+23-04-2023 23:44,ab,Teacher,Changed marks of Student 70412200031
+39:25.5,ab,Teacher,logged in
+59:09.3,ab,Teacher,logged in
+14:16.1,ab,Teacher,Updated Noticeboard 
+15:10.4,70412200020,Student,logged in
+17:36.5,ab,Teacher,Updated Noticeboard 
+19:44.4,ab,Teacher,Updated Noticeboard 
+20:32.0,70412200020,Student,logged in
+21:07.0,ab,Teacher,Updated Noticeboard 
+25:19.0,70412200020,Student,logged in
+34:54.0,70412200020,Student,logged in
+29-04-2023 00:57,ab,Teacher,logged out
+29-04-2023 01:00,ab,Teacher,logged out
+08:25.0,ab,Teacher,logged out
+37:05.1,ab,Teacher,logged in
+37:05.1,ab,Teacher,Changed marks of Student q
+29-04-2023 01:37,ab,Teacher,logged out
+2023-04-29 08:07:43.976188,70412200053,Student,logged out
+2023-04-29 08:15:11.326941,ab,Teacher,logged in
+2023-04-29 08:15:11.326941,ab,Teacher,Changed marks of Student 70412200053
+2023-04-29 08:15:11.326941,ab,Teacher,Changed marks of Student 70412200053
+2023-04-29 08:15:11.326941,ab,Teacher,Changed marks of Student 70412200053
+2023-04-29 08:15:11.326941,ab,Teacher,Changed marks of Student 70412200053
+2023-04-29 08:15:11.326941,ab,Teacher,logged out
+2023-04-29 08:17:57.067932,70412200053,Student,logged out
+2023-04-29 08:31:54.652431,ab,Teacher,logged in
+2023-04-29 08:31:54.652431,ab,Teacher,logged out
+2023-04-29 09:12:37.881220,70412200031,Student,logged in
+2023-04-29 09:23:47.994916,ab,Teacher,logged in
+2023-04-29 09:23:47.994916,ab,Teacher,Changed marks of Student 70412200053
+2023-04-29 09:23:47.994916,ab,Teacher,Updated Noticeboard 
+2023-04-29 09:23:47.994916,ab,Teacher,logged out
+2023-04-29 09:26:13.285159,70412200053,Student,logged out
+2023-04-29 09:30:41.219232,70412200019,Student,logged out
+2023-04-29 11:24:21.162670,70412200040,Student,logged out
+2023-04-29 11:26:52.270860,70412200029,Student,logged out
+2023-04-29 11:30:53.781464,ab,Teacher,logged in
+2023-04-29 11:30:53.781464,ab,Teacher,Changed marks of Student 70412200029
+2023-04-29 11:30:53.781464,ab,Teacher,logged out
+2023-04-29 12:00:47.163079,70412200012,Student,logged out
+2023-04-29 12:03:47.488856,70412200014,Student,logged out
+2023-04-29 12:04:46.820172,ab,Teacher,logged in
+2023-04-29 12:04:46.820172,ab,Teacher,Changed marks of Student 70412200014
+2023-04-29 12:04:46.820172,ab,Teacher,Changed marks of Student 70412200014
+2023-04-29 12:04:46.820172,ab,Teacher,logged out
+2023-04-29 12:09:19.403000,70412200007,Student,logged out
+2023-04-29 12:12:00.006465,ab,Teacher,logged in
+2023-04-29 12:12:00.006465,ab,Teacher,logged out
+2023-04-29 12:20:05.241314,70412200039,Student,logged out
+2023-04-29 12:22:13.890437,70412200050,Student,logged out
+2023-04-29 12:30:38.329290,70412200055,Student,logged out
+2023-04-29 12:33:51.981921,ab,Teacher,logged in
+2023-04-29 12:33:51.981921,ab,Teacher,Changed marks of Student 70412200055
+2023-04-29 12:33:51.981921,ab,Teacher,Updated Noticeboard 
+2023-04-29 12:33:51.981921,ab,Teacher,logged out
+2023-04-29 16:46:25.314337,70412200053,Student,logged out
+2023-04-29 16:56:19.461936,ab,Teacher,logged in
+2023-04-29 16:56:19.461936,ab,Teacher,Changed marks of Student 70412200020
+2023-04-29 16:56:19.461936,ab,Teacher,Updated Noticeboard 
+2023-04-29 16:56:19.461936,ab,Teacher,logged out
+2023-04-30 01:36:45.230985,70412200020,Student,logged out
+2023-04-30 01:41:02.765580,ab,Teacher,logged in
+2023-04-30 15:30:01.064233,70412200020,Student,logged out
+2023-04-30 15:32:45.730335,ab,Teacher,logged in
+2023-04-30 15:32:45.730335,ab,Teacher,Changed marks of Student 70412200020
+2023-04-30 15:32:45.730335,ab,Teacher,logged out
